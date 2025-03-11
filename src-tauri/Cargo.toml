@@ -1,7 +1,7 @@
 [package]
 name = "SUAPPAIR"
 version = "1.0.1"
-description = "an Artistic Inspiration Renderer based on AI Refinement technology brings you endless design inspiration in Rhinoceros"
+description = "an AI Inspiration Renderer based on AI Refinement technology brings you endless design inspiration"
 authors = ["1024xiaoshen"]
 edition = "2021"
 
